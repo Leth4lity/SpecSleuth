@@ -28,6 +28,17 @@ An User Friendly and Informative Computer Specs Viewer.
 <b>Network Information</b>: Show details about the network adapters and their configurations. The ability to connected via TOR will be available as an option!
 
 <b>Connected Devices</b>: Display information about connected peripherals, such as printers, scanners and external storage.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>Use:</h2>
+
+git clone https://github.com/Leth4lity/SpecSleuth
+
+cd SpecSleuth
+
+chmod +x specsleuth.sh
+
+sudo ./specsleuth.sh
 
 Benefits:
 <ul>This project will require interacting with the computer's hardware and system information, which will deepen your understanding of low-level programming and system APIs.
