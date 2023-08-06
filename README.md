@@ -1,7 +1,9 @@
 # SpecSleuth
 An User Friendly and Informative Computer Specs Viewer.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h2>Optimization is currently being added!</h2>
 
 <b>Description</b>: SpecSleuth aims to be an easy-to-use command line application that collects and displays various information about the user's computer. It will provide a compreshensive overview of the system's hardware components, operating system, and other revelant details.
 
